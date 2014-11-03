@@ -4,7 +4,7 @@
 //
 //  Created by ELC on 9/9/10.
 //  Copyright 2010 ELC Technologies. All rights reserved.
-//
+//  elc
 
 #import <UIKit/UIKit.h>
 #import "ELCImagePickerHeader.h"
